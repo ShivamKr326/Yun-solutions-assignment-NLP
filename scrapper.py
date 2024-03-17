@@ -79,4 +79,5 @@ def scrape_news():
 result = scrape_news()
 print(result)
 
-# For scrapping twitter it's asking to create a Developer's account!!
+# For scrapping twitter it's asking to create a Developer's account!!I tried using many python libraries like
+# ntscraper, snscraper, tweepy, twint etc but didn't know why they didn't works out.
